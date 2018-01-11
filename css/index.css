@@ -14,9 +14,9 @@
   url('https://at.alicdn.com/t/font_524939_9xdijfg90abmaemi.ttf') format('truetype'),
   url('https://at.alicdn.com/t/font_524939_9xdijfg90abmaemi.svg#iconfont') format('svg');
 }
-body{
+/* body{
 	height: 40rem;
-}
+} */
 /* 头部开始 */
 .toubu{
 	width: 100%;
